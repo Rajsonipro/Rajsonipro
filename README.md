@@ -4,7 +4,7 @@ Hi 👋 I'm Raj  <br>Aspiring Software Developer | Web Dev & AI Enthusiast|  IOT
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/raj__208) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-soni-0208s/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajsoni02082006@gmail.com##.[![Phone](https://img.shields.io/badge/Phone-%2B91%208866337980-brightgreen?logo=phone&logoColor=white)](tel:+918866337980)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajsoni02082006@gmail.com.[![Phone](https://img.shields.io/badge/Phone-%2B91%208866337980-brightgreen?logo=phone&logoColor=white)](tel:+918866337980)
 
 
 
